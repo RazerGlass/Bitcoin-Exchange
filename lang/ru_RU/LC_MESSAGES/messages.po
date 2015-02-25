@@ -1,0 +1,1594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-06 05:48-0000\n"
+"PO-Revision-Date: 2015-02-06 05:51-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _ex\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Nate\\Documents\\btcexchange\\application\n"
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:305
+msgid "Order is too low. Minimum order is 0.0001"
+msgstr "Порядок является слишком низкой. Минимальный заказ равен 0.0001"
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:307
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:308
+msgid "Numbers only, please!"
+msgstr "Номера только, пожалуйста!"
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:355
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:363
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:370
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:378
+msgid "You do not have enough to put in the order"
+msgstr "Не нужно, достаточно поставить в порядке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:359
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:374
+msgid "Negative balance. System has been notified."
+msgstr "Отрицательный баланс. Система была уведомлена."
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:396
+msgid "Enter an amount before continuing"
+msgstr "Введите сумму перед продолжением"
+
+#: C:\Users\Nate\Documents\btcexchange\application/controllers/dashboard.php:419
+msgid "Market does not exist"
+msgstr "Рынок не существует"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:204
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:234
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:1134
+msgid "Oh snap!"
+msgstr "Ох snap!"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:206
+msgid "You are banned."
+msgstr "Вам запрещены."
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:208
+msgid "Do not"
+msgstr "НЕ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:210
+msgid "register another account"
+msgstr "зарегистрировать другой учетной записи"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:212
+msgid "Reason you are banned:"
+msgstr "Причина, по которой вы запрещены:"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:236
+msgid "Please verify your email"
+msgstr "Пожалуйста, подтвердите ваш адрес электронной почты."
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:256
+msgid "Secure account. Enable Two factor Authentication"
+msgstr "Безопасность учетной записи. Включить два фактора аутентификации"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:258
+msgid "Here"
+msgstr "Здесь"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:278
+msgid "Details Submitted!"
+msgstr "Подробности представлены!"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:280
+msgid "Please wait for our team to verify your details"
+msgstr "Пожалуйста, подождите, для нашей команды проверить ваши данные"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:1120
+msgid "Success"
+msgstr "Успешно"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:1122
+msgid "You have successfully withdrawn"
+msgstr "Вы успешно вышли"
+
+#: C:\Users\Nate\Documents\btcexchange\application/model/model.php:1136
+msgid "Invalid Balance"
+msgstr "Неверный баланс"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:19
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:24
+msgid "View User Guides"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:29
+msgid "Settings"
+msgstr "Настройки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:34
+msgid "Add Guides"
+msgstr "Добавить направляющие"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:39
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:21
+msgid "View Users"
+msgstr "Просмотр пользователей"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/adminsidebar.php:44
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:26
+msgid "Verify Users"
+msgstr "Проверки пользователей"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:12
+msgid "About Us"
+msgstr "О нас"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:14
+msgid "Jobs"
+msgstr "Работы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:15
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:48
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:23
+msgid "Product"
+msgstr "Товар"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:25
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:116
+msgid "How it works"
+msgstr "Как это работает"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:26
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:167
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:366
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:134
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:246
+msgid "API"
+msgstr "Интерфейс программирования приложений"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:27
+msgid "Fees"
+msgstr "Сбор"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:35
+msgid "Support"
+msgstr "Поддержка"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:37
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:241
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:320
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:360
+msgid "Help"
+msgstr "Помощь"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:38
+msgid "Documentation"
+msgstr "Документация"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:39
+msgid "Terms of services"
+msgstr "Условия предоставления услуг"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/footer.php:40
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:131
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:152
+msgid "Tools"
+msgstr "Инструменты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:157
+msgid "Orders"
+msgstr "Орден"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:162
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:9
+msgid "Trades"
+msgstr "Сделки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:172
+msgid "FAQ"
+msgstr "Часто задаваемые вопросы и ответы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:177
+msgid "Coin Voting"
+msgstr "Монета голосование"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:187
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:672
+msgid "User"
+msgstr "Пользователь"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:196
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:275
+msgid "Admin CP"
+msgstr "Admin CP"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:203
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:282
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/usersidebar.php:22
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:77
+msgid "Deposit"
+msgstr "Пополнение средств"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:209
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:288
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:6
+msgid "Edit Settings"
+msgstr "Изменить настройки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:215
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:294
+msgid "Security"
+msgstr "Безопасность"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:221
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:300
+msgid "User API"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:227
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:306
+msgid "Messages"
+msgstr "Сообщения"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:235
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:314
+msgid "Information"
+msgstr "Information"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:247
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:326
+msgid "Logout"
+msgstr "Выход"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:348
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:81
+msgid "Login"
+msgstr "Войти"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/header.php:354
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:156
+msgid "Register"
+msgstr "Регистрация"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebar.php:22
+msgid "Markets"
+msgstr "рынки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:11
+msgid "Add guide"
+msgstr "Добавить руководство"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:16
+msgid "Edit guides"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:31
+msgid "Add Faq"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:36
+msgid "Edit Faq(s)"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:41
+msgid "Add Page"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:46
+msgid "Edit Page(s)"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:51
+msgid "Ban User(s)"
+msgstr "Просмотр руководства пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:56
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/message.php:74
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/messages.php:130
+msgid "News"
+msgstr "Новости"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:61
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addnews.php:38
+msgid "Add News"
+msgstr "Добавить новость"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:66
+msgid "Add Coin"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/sidebarright.php:71
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:3
+msgid "Coins"
+msgstr "vjytns"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/usersidebar.php:29
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/usersidebar.php:35
+msgid "Account Security"
+msgstr "Безопасность учетной записи"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/_templates/usersidebar.php:41
+msgid "Profile Information"
+msgstr "Информация профиля"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addcoin.php:3
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editcoin.php:3
+msgid "Update Coin"
+msgstr "Обновление монета"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addcoin.php:31
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editcoin.php:40
+msgid " Coin Title "
+msgstr "Название монеты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addcoin.php:55
+msgid "Add coin"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addfaq.php:8
+msgid "Enter a Question Title"
+msgstr "Введите заголовок вопроса"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addfaq.php:18
+msgid "Add FAQ"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addguide.php:8
+msgid "Enter a Title for user guide"
+msgstr "Введите название для руководство пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addguide.php:11
+msgid "Enter a url for user guide"
+msgstr "Введите URL-адрес для руководство пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addguide.php:21
+msgid "Add User Guide"
+msgstr "Добавить руководство пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addnews.php:8
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addpage.php:8
+msgid "Enter a Page Title"
+msgstr "Введите заголовок страницы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addpage.php:13
+msgid "Enter a Page URL"
+msgstr "Введите URL-адрес страницы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/addpage.php:23
+msgid "Add page"
+msgstr "Добавить страницу..."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:3
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:3
+msgid "Users"
+msgstr "Пользователи"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:70
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:70
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:70
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:71
+msgid "banned by"
+msgstr "запрещена"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:71
+msgid "Banned by"
+msgstr "Запрещена"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:72
+msgid "banned until"
+msgstr "запрещена до"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:72
+msgid "Banned until"
+msgstr "запрещена до"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:73
+msgid "Reason"
+msgstr "Причина"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/banuser.php:74
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:53
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:75
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:74
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:59
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:84
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:179
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:61
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:149
+msgid "Actions"
+msgstr "Действия"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:49
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:624
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:663
+msgid "Coin"
+msgstr "Монета"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:50
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:57
+msgid "Description"
+msgstr "Описание"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:51
+msgid "Title"
+msgstr "Заголовок"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/coins.php:52
+msgid "Enabled"
+msgstr "Включено"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editcoin.php:22
+msgid " Coin name "
+msgstr "Название монеты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editcoin.php:31
+msgid " Coin Description "
+msgstr "Описание монет"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editcoin.php:54
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:139
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:136
+msgid "Update"
+msgstr "Обновить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editfaq.php:15
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editnews.php:15
+msgid "Update FAQ"
+msgstr "Часто задаваемые вопросы и ответы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editguide.php:16
+msgid "Update User Guide"
+msgstr "Обновить руководство пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/editpage.php:15
+msgid "Update page"
+msgstr "Обновление страницы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/edituser.php:5
+msgid "Edit Users"
+msgstr "Изменение пользователей"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:3
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:44
+msgid "Edit Information"
+msgstr "Редактирование информации"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:22
+msgid " Please enter your Website Name "
+msgstr "Пожалуйста, введите ваш URL-адрес веб-сайта"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:31
+msgid " Please enter your Website slogan "
+msgstr "Пожалуйста, введите ваш URL-адрес веб-сайта"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:40
+msgid " Please enter your Website URL "
+msgstr "Пожалуйста, введите ваш URL-адрес веб-сайта"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:48
+msgid " Please enter your SEO Keywords "
+msgstr "Пожалуйста, введите ваши ключевые слова SEO"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:57
+msgid " Please enter your SEO Description "
+msgstr "Пожалуйста, введите описание вашей SEO"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:74
+msgid " Please enter your Market Fees "
+msgstr "Пожалуйста, введите ваш рынок сборов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:82
+msgid " Please enter your Company Number "
+msgstr "Пожалуйста, введите номер вашей компании"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:90
+msgid " Please enter your Address "
+msgstr "Введите email."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:98
+msgid " Please enter your Company Phone Number "
+msgstr "Пожалуйста, введите ваш номер телефона компании"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/settings.php:106
+msgid " Please enter your Company Email "
+msgstr "Введите ваш адрес эл. почты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:71
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:71
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passreset.php:21
+msgid "Email"
+msgstr "Email"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:72
+msgid "Details Verified"
+msgstr "Проверка деталей"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:73
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:72
+msgid "First Name"
+msgstr "Имя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/users.php:74
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:73
+msgid "Last Name"
+msgstr "﻿Фамилия"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/admin/verifyusers.php:3
+msgid "Users Needing Verification"
+msgstr "Пользователи, нуждающиеся в проверке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:7
+msgid "Ticker"
+msgstr "Бегущая строка"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:13
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:79
+msgid "Private API"
+msgstr "Частные API"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:24
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:74
+msgid "Sample Response"
+msgstr "Пример ответа"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:29
+msgid "Ticker URL"
+msgstr "URL-адрес тикер"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:35
+msgid ""
+"This is the market, you can replace that value with a valid market in our "
+"system"
+msgstr ""
+"Это рынок, это значение можно заменить на действительный рынок в нашей "
+"системе"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:38
+msgid "high"
+msgstr "Верхний предел"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:39
+msgid "Highest completed trade in that market"
+msgstr "Наибольшей завершенных торговли на этом рынке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:42
+msgid "low"
+msgstr "Нижний предел"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:43
+msgid "Lowest completed trade in that market"
+msgstr "Самая низкая в завершенных торговли на этом рынке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:46
+msgid "avg"
+msgstr "средний"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:47
+msgid "Average price of trades in that market"
+msgstr "Средняя цена сделок на этом рынке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:50
+msgid "vol"
+msgstr "Громкость -"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:51
+msgid "Total volume of trades in that market"
+msgstr "Общий объем торгов в этом рынке"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:54
+msgid "last"
+msgstr "Введите имя растрового изображения:"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:55
+msgid "Price of last trade"
+msgstr "Цена последней сделки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:58
+msgid "buy"
+msgstr "купить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:59
+msgid "Buy price"
+msgstr "Купить Цена"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:62
+msgid "sell"
+msgstr "продать"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:63
+msgid "Sell price"
+msgstr "Продажная цена"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:84
+msgid "Public key"
+msgstr "Открытый ключ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:85
+msgid ""
+"This is your accounts public key which can be generated in account settings"
+msgstr ""
+"Это ваш счета публичный ключ, который может быть создан в настройки учетной "
+"записи"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:88
+msgid "Private key"
+msgstr "Закрытый ключ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/api/index.php:89
+msgid ""
+"This is your accounts private key which can be generated in account settings"
+msgstr ""
+"Это ваш счета публичный ключ, который может быть создан в настройки учетной "
+"записи"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:25
+msgid "Depositing and Withdrawing"
+msgstr "Внесение"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:53
+msgid "Currency"
+msgstr "Валюта"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:53
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:55
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:57
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:59
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:79
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:80
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:82
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:83
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:84
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:174
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:175
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:177
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:178
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:179
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:33
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:34
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:35
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:36
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:37
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:38
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:39
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:40
+msgid "activate to sort column ascending"
+msgstr "активировать для сортировки столбцов по возрастанию"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:55
+msgid "Balance"
+msgstr "Баланс"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:57
+msgid "Market Description"
+msgstr "Описание рынка"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:74
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:139
+msgid "Withdraw"
+msgstr "Снять"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:96
+msgid "Deposit your Bitcoins to the address below"
+msgstr "Внесите ваш CryptxCoins по указанному ниже адресу"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:98
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:208
+msgid "Deposit Wallet Address"
+msgstr "Пополнение средств"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:102
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:212
+msgid "Generate New Address"
+msgstr "Создать новый адрес"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:104
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:144
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:191
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:214
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:310
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:218
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:236
+msgid "Close"
+msgstr "Закрыть"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:115
+msgid "Withdraw your Bitcoins"
+msgstr "Снять ваши Bitcoins"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:126
+msgid "Amount of BTC to withdraw"
+msgstr "Количество BTC снять"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:137
+msgid "Enter withdraw wallet"
+msgstr "Введите снять бумажник"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:156
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:179
+msgid "Depositing"
+msgstr "Внесение"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/deposit.php:206
+msgid "Deposit your CryptxCoins to the address below"
+msgstr "Внесите ваш CryptxCoins по указанному ниже адресу"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:255
+msgid ""
+"\n"
+"          Coin Purchase information "
+msgstr ""
+"\n"
+" Информация о покупке монет"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:287
+msgid ""
+"\n"
+"          Sell Order Information"
+msgstr ""
+" \n"
+"информацию о заказе продать"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:300
+msgid "Total Price of"
+msgstr "Итоговая цена"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:301
+msgid "to"
+msgstr "к"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:301
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:341
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:387
+msgid "Buy"
+msgstr "Купить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:321
+msgid "Trading Chart"
+msgstr "Торговые индикаторы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:355
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:425
+msgid "Amount of"
+msgstr "Общая сумма (до плату)"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:372
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:443
+msgid "Value of"
+msgstr "Значение"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:386
+msgid ""
+"Choose an amount to buy. Use periods for lesser amounts for example: 0.1 or "
+"0.02. Our lowest possible order is 0.0001"
+msgstr ""
+"Выберите сумму для покупки. Использовать периоды для меньших количествах "
+"например: 0.1 или 0,02. Наши низкие Возможен заказ равен 0.0001"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:412
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:457
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:60
+msgid "Sell"
+msgstr "Продажа"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:457
+msgid ""
+"Choose an amount to sell. Use periods for lesser amounts for example: 0.1 or "
+"0.02. Our lowest order possible is 0.0001"
+msgstr ""
+"Выберите сумму продать. Использовать периоды для меньших количествах "
+"например: 0.1 или 0,02. Наш низкий порядок возможного равен 0.0001"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:478
+msgid "Selling Orders"
+msgstr "Продажа заказы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:495
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:511
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:555
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:570
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:79
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:82
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:177
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:36
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:16
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:42
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:66
+msgid "Price"
+msgstr "Цене"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:498
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:514
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:558
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:573
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:621
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:660
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:80
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:175
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:34
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:15
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:41
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:65
+msgid "Amount"
+msgstr "Сумма"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:501
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:517
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:561
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:576
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:627
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:666
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:35
+msgid "Cost"
+msgstr "Стоимость"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:540
+msgid "Buying Orders"
+msgstr "Открыть заказы покупки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:605
+msgid "Trade History"
+msgstr "История торговли"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:630
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:669
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:83
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:178
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:37
+msgid "Time"
+msgstr "Time"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:633
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:80
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:39
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:54
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:67
+msgid "Date"
+msgstr "Дата рождения"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:636
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/index.php:675
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:17
+msgid "Buy/Sell"
+msgstr "Купить/продать"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:2
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:40
+msgid "Invoice"
+msgstr "Счет-фактура"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:14
+msgid "Send"
+msgstr "Отправить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:19
+msgid "Print"
+msgstr "Печать"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:31
+msgid "Invoice No"
+msgstr "Счет-фактура"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:44
+msgid "Client"
+msgstr "клиент"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:60
+msgid "Company Details"
+msgstr "Iнформация о компании"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:63
+msgid "Company Reg"
+msgstr "Компания Reg"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:64
+msgid "Website Name"
+msgstr "Сайт Имя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:65
+msgid "Address"
+msgstr "Адрес"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:77
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:79
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:174
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:33
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:14
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:40
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:64
+msgid "Market"
+msgstr "Рынок"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:78
+msgid "Quantity"
+msgstr "Количество"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:100
+msgid "Total amount (before fee)"
+msgstr "Общая сумма (до плату)"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:105
+msgid "Fee Percentage"
+msgstr "Плата за процент"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/invoice.php:111
+msgid "Grand Total (after fee) "
+msgstr "Итог (после плату)"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:17
+msgid "Open Buying Orders"
+msgstr "Открыть заказы покупки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:35
+msgid "Total Cost"
+msgstr "Общие затраты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:101
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:198
+msgid "Cancel"
+msgstr "Отменить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:113
+msgid "Open Selling Orders"
+msgstr "Открыть продажи заказов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:212
+msgid "Deleting Order"
+msgstr "Удаление ордера"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:215
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:233
+msgid "Are you sure you want to delete your order?"
+msgstr "Вы уверены, что вы хотите удалить ваш заказ?"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:219
+msgid "Delete Order"
+msgstr "Удалить заказ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/orders.php:230
+msgid "Deleting order"
+msgstr "Удаление ордера"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:3
+msgid "Completed trades"
+msgstr "Завершенные сделки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:38
+msgid "Buy Or Sell"
+msgstr "Купить или продать"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/dashboard/trades.php:56
+msgid "View Invoice"
+msgstr "Просмотр счета"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:75
+msgid "Welcome to Cryptxe"
+msgstr "Добро пожаловать на Cryptxe"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:78
+msgid "Start trading Cryptocurrencies today"
+msgstr "Начните торговать сегодня Cryptocurrencies"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:80
+msgid "Start trading"
+msgstr "Начать торговлю!"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:120
+msgid "Account management"
+msgstr "Управление учетными записями"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:122
+msgid ""
+"Easily maintain your account. View orders, trades, transactions, whitelist "
+"IP's and much more"
+msgstr ""
+"Легко вести свою учетную запись. Просмотр заказов, сделки, сделки, белый "
+"список IP-адресов и многое другое"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:127
+msgid "Multiple Markets"
+msgstr "Несколько рынков"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:129
+msgid ""
+" We have multiple Cryptocurrency markets for our users to trade against."
+msgstr ""
+"У нас есть несколько Cryptocurrency рынки для наших пользователей, чтобы "
+"торговать против."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:136
+msgid ""
+"Easily build 3rd party applications with our public and/or private API -- "
+"fully documented, easy to use."
+msgstr ""
+"Легко создавать приложения сторонних производителей с нашей общественной или "
+"частной API--полностью документально, простой в использовании."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:141
+msgid "2Factor Authentication"
+msgstr "2Factor проверка подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:143
+msgid ""
+" To protect our users and their accounts we have implemented 2factor "
+"authentication."
+msgstr ""
+"Для защиты наших пользователей и их учетных записей мы реализовали 2factor "
+"аутентификации."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:153
+msgid "We are responsive"
+msgstr "Мы чутко"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:155
+msgid " Trade on: Desktop, Tablet or Mobile"
+msgstr "Торговля: Рабочий стол, планшет или мобильный"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:160
+msgid "Why Choose Cryptxe?"
+msgstr "Почему Cryptxe?"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:166
+msgid "Security is our number one objective."
+msgstr "Безопасность является нашей целью номер один."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:173
+msgid ""
+"Here at Cryptxe we pride ourself on our security. We are handling people's "
+"money, so we need to have a secure system"
+msgstr ""
+"Здесь на Cryptxe мы гордимся себя на нашей безопасности. Мы обработки людей "
+"деньги, поэтому мы должны иметь безопасную систему"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:182
+msgid "500 Free CryptxCoins Welcome Bonus."
+msgstr "500 бесплатных CryptxCoins Добро пожаловать бонус."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:189
+msgid ""
+"New users on Cryptxe are given 500 free Cryptx Coins. These can be used to "
+"trade against other markets"
+msgstr ""
+"Новые пользователи на Cryptxe дают 500 бесплатно Cryptx монет. Они могут "
+"использоваться для торговли против других рынков"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:198
+msgid "Built in Messaging system"
+msgstr "Построен в системе обмена сообщениями"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:205
+msgid ""
+"Depending on your account activity, depends on what messages you will "
+"receive. This is a great way to keep an eye on your account."
+msgstr ""
+"В зависимости от активности вашего аккаунта, зависит какие сообщения вы "
+"будете получать. Это отличный способ держать глаз на вашем счету."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:214
+msgid "Whitelist IP's"
+msgstr ""
+"Мы предлагаем вам шанс в белый список IP в вашей учетной записи. Вы только "
+"сможете войти в свой аккаунт с белый IP, если вы используете эту функцию."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:221
+msgid ""
+"We offer you the chance to whitelist IP's to your account. You will only be "
+"able to login to your account with a whitelisted IP if you use this feature."
+msgstr ""
+"Мы предлагаем вам шанс в белый список IP в вашей учетной записи. Вы только "
+"сможете войти в свой аккаунт с белый IP, если вы используете эту функцию."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:230
+msgid "Easy to understand Market Charts"
+msgstr "Легко понять рынок графики"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:237
+msgid ""
+"View the markets information on our charts. See what prices are trending, "
+"view volume and much more."
+msgstr ""
+"Просмотрите сведения о рынках на наших диаграммах. Посмотреть, какие цены "
+"тенденции, посмотреть объем и многое другое."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/index.php:253
+msgid ""
+"Cryptxe has both a public and private API. Making custom applications a "
+"breeze."
+msgstr ""
+"Cryptxe имеет как общественной и частной API. Создание пользовательских "
+"приложений на одном дыхании."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/home/liveorders.php:35
+msgid "Ask"
+msgstr "Спросить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:11
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:31
+msgid "Generate API"
+msgstr "Создавать API"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:28
+msgid " Enter Name "
+msgstr "Введите имя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:51
+msgid " Name "
+msgstr "Название"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:51
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:54
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:57
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:60
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:148
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:149
+msgid " activate to sort column ascending "
+msgstr "активировать для сортировки столбцов по возрастанию"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:52
+msgid "Name"
+msgstr "Название"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:54
+msgid " Key "
+msgstr "Ключ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:55
+msgid "Key"
+msgstr "Ключ"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:57
+msgid " Secret "
+msgstr "Тайна"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:58
+msgid "Secret"
+msgstr "Тайна"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:60
+msgid " Actions "
+msgstr "Действия"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/api.php:87
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:171
+msgid "Delete"
+msgstr "Удалить"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:61
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:59
+msgid " Please enter an email address "
+msgstr "Пожалуйста, введите адрес электронной почты"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:72
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:72
+msgid " Enter strong password "
+msgstr "Введите надежный пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:83
+msgid " Passwords don 't match"
+msgstr "Пароли Дон 't матч"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:83
+msgid "Confirm password"
+msgstr "﻿Подтвердите пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:90
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:90
+msgid "Password Requirements"
+msgstr "Требования к паролю"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:99
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:96
+msgid "8 characters minimum"
+msgstr "минимум 8 символов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:102
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:97
+msgid "1 or more upper-case letters"
+msgstr "1 или более прописных букв"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:109
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:102
+msgid "1 or more lower-case letters"
+msgstr "1 или более строчные буквы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:112
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:103
+msgid "1 or more digits or special characters"
+msgstr "1 или более цифр или специальных символов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:120
+msgid "Sidebar Constantly Open"
+msgstr "Постоянно открыть боковую панель"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/edit.php:128
+msgid "Chat Constantly Open"
+msgstr "Постоянно открывать чат"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:16
+msgid "Login form"
+msgstr "Форма входа"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:29
+msgid " Email "
+msgstr "Email"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:32
+msgid " Password "
+msgstr "Пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:33
+msgid "Your caps lock is enabled. Our passwords are case-sensitive."
+msgstr "Включен режим caps lock. Наши пароли чувствительны к регистру."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:37
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/loginauth.php:26
+msgid "Sign in"
+msgstr "Войти"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:45
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:53
+msgid "Create New Account"
+msgstr "Создать новый аккаунт"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/login.php:58
+msgid "Forgot Password"
+msgstr "Забыли пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/loginauth.php:4
+msgid "2 Factor Authentication"
+msgstr "2 фактор проверки подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/loginauth.php:20
+msgid " Authentication code "
+msgstr "Код проверки подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/loginauth.php:21
+msgid ""
+"This is the code supplied on your mobile phone. Open Google Authenticator\n"
+"                      and insert the code above and press 'login'"
+msgstr ""
+"Это код, предоставляемый на вашем мобильном телефоне. Откройте Google "
+"Authenticator\n"
+" и вставьте приведенный выше код и нажмите «Вход»"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/message.php:67
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/messages.php:122
+msgid "All"
+msgstr "Все"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/message.php:79
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/messages.php:135
+msgid "Account"
+msgstr "Аккаунт"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/messages.php:63
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/messages.php:76
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passreset.php:5
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passresetsec.php:4
+msgid "Password Reset"
+msgstr "Ваш пароль обновлен."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passreset.php:24
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passresetsec.php:35
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passresetsec.php:25
+msgid "Security Answer 1"
+msgstr "Контрольный ответ 1"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/passresetsec.php:31
+msgid "Security Answer 2"
+msgstr "Контрольный ответ 2"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:34
+msgid "Register Form"
+msgstr "Форма регистрации"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:51
+msgid " Username "
+msgstr "Имя пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:51
+msgid " Please enter your username "
+msgstr "Пожалуйста, введите свое имя пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:59
+msgid " Enter email address "
+msgstr "Введите email."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:83
+msgid " Password don 't match"
+msgstr "Пароль Дон 't матч"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:83
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:107
+msgid ""
+"These security questions will not be changeable or visible after "
+"registration. <br/>\n"
+"If you lose access to your email/account, we will use these questions as "
+"part of the process to grant access to your account."
+msgstr ""
+"Эти вопросы безопасности не будет сменные или видимые после регистрации."
+"<br>\n"
+"If вы потеряете доступ к вашему учету email, мы будем использовать эти "
+"вопросы в рамках этого процесса для предоставления доступа к вашей учетной "
+"записи."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:113
+msgid "Favorite Sports Team"
+msgstr "Любимая спортивная команда"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:114
+msgid "Favorite Food"
+msgstr "Любимая еда"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:115
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:134
+msgid "Mother's Maiden Name"
+msgstr "Девичья фамилия матери"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:116
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:135
+msgid "Grandmothers BirthPlace"
+msgstr "Место рождения бабушки"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:117
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:136
+msgid "Father's Name"
+msgstr "Отчество"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:125
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:144
+msgid " Security Question Answer "
+msgstr "Ответ на секретный вопрос"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:132
+msgid "What was the name of you Elementary School"
+msgstr "Как звали вас начальная школа"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:133
+msgid "Favorite Movie"
+msgstr "Любимый фильм"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:150
+msgid "I agree to the"
+msgstr "Я соглашаюсь с  этии"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/register.php:152
+msgid "Terms and Conditions"
+msgstr "Условия Сайта"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:39
+msgid "User Logins"
+msgstr "Имена входа"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:53
+msgid " Date "
+msgstr "Date"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:53
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:56
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:59
+msgid "activate to sort column ascending "
+msgstr "активировать для сортировки столбцов по возрастанию"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:56
+msgid " IP Address "
+msgstr "IP-адрес"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:57
+msgid "IP Address"
+msgstr "IP-адрес"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:59
+msgid " Status "
+msgstr "Статус"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:60
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:73
+msgid "Status"
+msgstr "Статус"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:70
+msgid "IP address"
+msgstr "IP адрес"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:100
+msgid "Whitelist IP Addresses"
+msgstr "Белый список IP-адресов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:111
+msgid ""
+"If you add 1 or more whitelisted IP Addresses you will not be able to login "
+"with another\n"
+" non-whitelisted IP. You can add and remove IP addresses. It is not "
+"recommended for you\n"
+" to use if you have a dynamic IP"
+msgstr ""
+"Если вы добавляете 1 или более whitelisted IP-адреса вы не будет возможность "
+"входа с another\n"
+" не белый IP. Вы можете добавлять и удалять IP-адреса. Не рекомендуется для "
+"you\n"
+" использовать, если у вас динамический IP"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:124
+msgid " Enter IP "
+msgstr "Введите IP"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/security.php:148
+msgid "Whitelisted IP"
+msgstr ""
+"Мы предлагаем вам шанс в белый список IP в вашей учетной записи. Вы только "
+"сможете войти в свой аккаунт с белый IP, если вы используете эту функцию."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:21
+msgid "Bought"
+msgstr "Купленный"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:24
+msgid "Sold"
+msgstr "Проданный"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:29
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:35
+msgid "totalling"
+msgstr "в общей сложности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:31
+msgid "You"
+msgstr "Вы"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:37
+msgid "with an I.P (internet protocol) address of"
+msgstr "с адресом I.P (Интернет протокол)"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/timeline.php:51
+msgid "You have not completed any trades yet."
+msgstr "Вы еще не завершили любой сделки."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:4
+msgid "Two Factor Authentication"
+msgstr "2Factor проверка подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:20
+msgid "Authentication Key"
+msgstr "Ключ аутентификации"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:25
+msgid "Authentication Code"
+msgstr "Код проверки подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:26
+msgid "Enter Code"
+msgstr "\"Введите код\""
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:27
+msgid ""
+"Download Google authenticator and scan the barcode. Once scanned\n"
+"\t\t\t  a number should appear in the authenticator app. Fill out our\n"
+"\t\t\t  input with that code and click submit authentication on this site."
+msgstr ""
+"Скачать Google authenticator и сканировать штрих-код. После scanned\n"
+"\t\t\t ряд должен появиться в подлинности app. заливки из our\n"
+"\t\t\t ввода с этим кодом и нажмите кнопку отправьте аутентификацию на этом "
+"сайте."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/twofactor.php:31
+msgid "Submit authentication"
+msgstr "2Factor проверка подлинности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:31
+msgid "User Verification form"
+msgstr "Форма проверки пользователя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:41
+msgid ""
+"Upload a valid form of\n"
+" identification. Driving licenses, passports, Government\n"
+" Issued ID's"
+msgstr ""
+"Загрузите действительный формы идентификации of\n"
+". Водительские права, паспорта, Government\n"
+" выдан идентификаторов"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:53
+msgid " First Name "
+msgstr "Имя"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:60
+msgid " Last Name "
+msgstr "﻿Фамилия"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:68
+msgid " Address line 1 "
+msgstr "Адрес 1"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:77
+msgid " Address line 2 "
+msgstr "Адрес (2-я строка)"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:86
+msgid " City "
+msgstr "Город"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:95
+msgid " Postal Code "
+msgstr "Почтовый индекс:"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:104
+msgid " State/Provinince "
+msgstr "Государство/Provinince"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:154
+msgid " Date of birth "
+msgstr "Дата рождения"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:160
+msgid "Valid Identification"
+msgstr "Удостоверение личности"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:164
+msgid ""
+"We only accept drivers licenses, passports or any other government issued id."
+msgstr ""
+"Мы принимаем только водительские права, паспорт или любое другое "
+"правительство издало id."
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:167
+msgid "All the information supplied "
+msgstr "Information"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:167
+msgid "MUST"
+msgstr "Муст"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:168
+#, php-format
+msgid "be 100% correct"
+msgstr "быть на правильно"
+
+#: C:\Users\Nate\Documents\btcexchange\application/views/user/verify.php:171
+msgid ""
+"Only JPEG,PNG,JPG Type Image Uploaded. Image Size Should Be Less Than 10MB."
+msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "          Sell Order Submitted "
+#~ msgstr ""
+#~ "\n"
+#~ " продать поручение"

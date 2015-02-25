@@ -1,0 +1,1559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-06 05:43-0000\n"
+"PO-Revision-Date: 2015-02-06 05:48-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: C:\\Users\\Nate\\Documents\\btcexchange\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _ex\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Nate\\Documents\\btcexchange\n"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:305
+msgid "Order is too low. Minimum order is 0.0001"
+msgstr "产品666的最小订单量是多少？"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:307
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:308
+msgid "Numbers only, please!"
+msgstr "请输入您的网站名称"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:355
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:363
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:370
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:378
+msgid "You do not have enough to put in the order"
+msgstr "您没有权限创建订单备注"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:359
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:374
+msgid "Negative balance. System has been notified."
+msgstr "B.联合国系统内的性别均衡"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:396
+msgid "Enter an amount before continuing"
+msgstr "输入的金额。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/controllers/dashboard.php:419
+msgid "Market does not exist"
+msgstr "说明"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:204
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:234
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:1134
+msgid "Oh snap!"
+msgstr "哦！"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:206
+msgid "You are banned."
+msgstr "你被禁止。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:208
+msgid "Do not"
+msgstr "不锁定"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:210
+msgid "register another account"
+msgstr "注册帐号"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:212
+msgid "Reason you are banned:"
+msgstr "（已屏蔽）"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:236
+msgid "Please verify your email"
+msgstr "请输入您的电子邮箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:256
+msgid "Secure account. Enable Two factor Authentication"
+msgstr "双重身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:258
+msgid "Here"
+msgstr "这里"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:278
+msgid "Details Submitted!"
+msgstr "公司详细信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:280
+msgid "Please wait for our team to verify your details"
+msgstr "请稍等"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:1120
+msgid "Success"
+msgstr "成功"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:1122
+msgid "You have successfully withdrawn"
+msgstr "您还没有完成任何交易呢。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/model/model.php:1136
+msgid "Invalid Balance"
+msgstr "金额"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:19
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:24
+msgid "View User Guides"
+msgstr "用户指南"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:29
+msgid "Settings"
+msgstr "设置"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:34
+msgid "Add Guides"
+msgstr "参考线"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:39
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:21
+msgid "View Users"
+msgstr "查看详情"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/adminsidebar.php:44
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:26
+msgid "Verify Users"
+msgstr "用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:12
+msgid "About Us"
+msgstr "关于我们"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:14
+msgid "Jobs"
+msgstr "工作"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:15
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:48
+msgid "Contact us"
+msgstr "联系我们"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:23
+msgid "Product"
+msgstr "产品"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:25
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:116
+msgid "How it works"
+msgstr "工作原理"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:26
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:167
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:366
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:134
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:246
+msgid "API"
+msgstr "应用程序接口"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:27
+msgid "Fees"
+msgstr "请输入您的市场费用"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:35
+msgid "Support"
+msgstr "支持"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:37
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:241
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:320
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:360
+msgid "Help"
+msgstr "帮助"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:38
+msgid "Documentation"
+msgstr "文档"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:39
+msgid "Terms of services"
+msgstr "條款和細則"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/footer.php:40
+msgid "Privacy"
+msgstr "隐私权"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:131
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:152
+msgid "Tools"
+msgstr "工具"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:157
+msgid "Orders"
+msgstr "订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:162
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:9
+msgid "Trades"
+msgstr "交易"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:172
+msgid "FAQ"
+msgstr "常见问题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:177
+msgid "Coin Voting"
+msgstr "投票"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:187
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:672
+msgid "User"
+msgstr "所在用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:196
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:275
+msgid "Admin CP"
+msgstr "联系CP"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:203
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:282
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/usersidebar.php:22
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:77
+msgid "Deposit"
+msgstr "存款"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:209
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:288
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:6
+msgid "Edit Settings"
+msgstr "编辑设置"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:215
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:294
+msgid "Security"
+msgstr "登录安全"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:221
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:300
+msgid "User API"
+msgstr "用户 API"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:227
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:306
+msgid "Messages"
+msgstr "邮件"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:235
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:314
+msgid "Information"
+msgstr "信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:247
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:326
+msgid "Logout"
+msgstr "注销"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:348
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:81
+msgid "Login"
+msgstr "登录"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/header.php:354
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:156
+msgid "Register"
+msgstr "注册"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebar.php:22
+msgid "Markets"
+msgstr "市场"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:11
+msgid "Add guide"
+msgstr "指南"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:16
+msgid "Edit guides"
+msgstr "参考线"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:31
+msgid "Add Faq"
+msgstr "添加新的常问问题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:36
+msgid "Edit Faq(s)"
+msgstr "编辑常见问题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:41
+msgid "Add Page"
+msgstr "添加页面"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:46
+msgid "Edit Page(s)"
+msgstr "頁"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:51
+msgid "Ban User(s)"
+msgstr "被禁止用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:56
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/message.php:74
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/messages.php:130
+msgid "News"
+msgstr "添加新项目"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:61
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addnews.php:38
+msgid "Add News"
+msgstr "添加信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:66
+msgid "Add Coin"
+msgstr "添加"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/sidebarright.php:71
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:3
+msgid "Coins"
+msgstr "硬幣"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/usersidebar.php:29
+msgid "Edit Profile"
+msgstr "编辑资料"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/usersidebar.php:35
+msgid "Account Security"
+msgstr "注册和帐户安全"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/_templates/usersidebar.php:41
+msgid "Profile Information"
+msgstr "个人资料信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addcoin.php:3
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editcoin.php:3
+msgid "Update Coin"
+msgstr "升级"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addcoin.php:31
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editcoin.php:40
+msgid " Coin Title "
+msgstr "标题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addcoin.php:55
+msgid "Add coin"
+msgstr "添加"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addfaq.php:8
+msgid "Enter a Question Title"
+msgstr "输入标题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addfaq.php:18
+msgid "Add FAQ"
+msgstr "添加新的常问问题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addguide.php:8
+msgid "Enter a Title for user guide"
+msgstr "输入标题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addguide.php:11
+msgid "Enter a url for user guide"
+msgstr "输入URL的用户指南"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addguide.php:21
+msgid "Add User Guide"
+msgstr "指南"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addnews.php:8
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addpage.php:8
+msgid "Enter a Page Title"
+msgstr "输入标题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addpage.php:13
+msgid "Enter a Page URL"
+msgstr "输入页面URL"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/addpage.php:23
+msgid "Add page"
+msgstr "加入頁面"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:3
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:3
+msgid "Users"
+msgstr "用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:70
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:70
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:70
+msgid "Username"
+msgstr "用户名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:71
+msgid "banned by"
+msgstr "（已屏蔽）"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:71
+msgid "Banned by"
+msgstr "通过取缔"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:72
+msgid "banned until"
+msgstr "禁止直到 ％s"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:72
+msgid "Banned until"
+msgstr "禁止直到 ％s"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:73
+msgid "Reason"
+msgstr "原因"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/banuser.php:74
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:53
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:75
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:74
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:59
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:84
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:179
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:61
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:149
+msgid "Actions"
+msgstr "操作"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:49
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:624
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:663
+msgid "Coin"
+msgstr "硬幣"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:50
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:57
+msgid "Description"
+msgstr "说明"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:51
+msgid "Title"
+msgstr "标题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/coins.php:52
+msgid "Enabled"
+msgstr "启用"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editcoin.php:22
+msgid " Coin name "
+msgstr "名称"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editcoin.php:31
+msgid " Coin Description "
+msgstr "说明"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editcoin.php:54
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:139
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:136
+msgid "Update"
+msgstr "升级"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editfaq.php:15
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editnews.php:15
+msgid "Update FAQ"
+msgstr "常见问题"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editguide.php:16
+msgid "Update User Guide"
+msgstr "所在用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/editpage.php:15
+msgid "Update page"
+msgstr "升级"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/edituser.php:5
+msgid "Edit Users"
+msgstr "编辑用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:3
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:44
+msgid "Edit Information"
+msgstr "信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:22
+msgid " Please enter your Website Name "
+msgstr "请输入您的网站名称"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:31
+msgid " Please enter your Website slogan "
+msgstr "请输入您的网站的口号"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:40
+msgid " Please enter your Website URL "
+msgstr "请输入您的网站网址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:48
+msgid " Please enter your SEO Keywords "
+msgstr "请输入您的SEO关键词"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:57
+msgid " Please enter your SEO Description "
+msgstr "请输入您的SEO说明"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:74
+msgid " Please enter your Market Fees "
+msgstr "请输入您的市场费用"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:82
+msgid " Please enter your Company Number "
+msgstr "请输入您的公司编号"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:90
+msgid " Please enter your Address "
+msgstr "电子信箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:98
+msgid " Please enter your Company Phone Number "
+msgstr "请输入您的公司电话号码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/settings.php:106
+msgid " Please enter your Company Email "
+msgstr "请输入您的电子邮箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:71
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:71
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passreset.php:21
+msgid "Email"
+msgstr "邮箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:72
+msgid "Details Verified"
+msgstr "公司详细信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:73
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:72
+msgid "First Name"
+msgstr "名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/users.php:74
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:73
+msgid "Last Name"
+msgstr "姓"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/admin/verifyusers.php:3
+msgid "Users Needing Verification"
+msgstr "查看详情"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:7
+msgid "Ticker"
+msgstr "動態文字"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:13
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:79
+msgid "Private API"
+msgstr "私有"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:24
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:74
+msgid "Sample Response"
+msgstr "样品"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:29
+msgid "Ticker URL"
+msgstr "输入页面URL"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:35
+msgid ""
+"This is the market, you can replace that value with a valid market in our "
+"system"
+msgstr "这就是市场，你可以用一个有效的市场上取代我们的系统价值"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:38
+msgid "high"
+msgstr "高"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:39
+msgid "Highest completed trade in that market"
+msgstr "最高的已完成的贸易市场"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:42
+msgid "low"
+msgstr "低"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:43
+msgid "Lowest completed trade in that market"
+msgstr "最高的已完成的贸易市场"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:46
+msgid "avg"
+msgstr "平均"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:47
+msgid "Average price of trades in that market"
+msgstr "行业的市场平均价格"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:50
+msgid "vol"
+msgstr "体积"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:51
+msgid "Total volume of trades in that market"
+msgstr "行业的市场总成交量"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:54
+msgid "last"
+msgstr "最后的"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:55
+msgid "Price of last trade"
+msgstr "最后的"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:58
+msgid "buy"
+msgstr "买"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:59
+msgid "Buy price"
+msgstr "价格"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:62
+msgid "sell"
+msgstr "卖"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:63
+msgid "Sell price"
+msgstr "价格"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:84
+msgid "Public key"
+msgstr "公开密钥加密"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:85
+msgid ""
+"This is your accounts public key which can be generated in account settings"
+msgstr "这是你的帐户可以在账户设置中生成的公钥"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:88
+msgid "Private key"
+msgstr "私人金鑰"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/api/index.php:89
+msgid ""
+"This is your accounts private key which can be generated in account settings"
+msgstr "这是你的帐户可以在账户设置中生成的私钥"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:25
+msgid "Depositing and Withdrawing"
+msgstr "沉积和回抽"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:53
+msgid "Currency"
+msgstr "货币"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:53
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:55
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:57
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:59
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:79
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:80
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:82
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:83
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:84
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:174
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:175
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:177
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:178
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:179
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:33
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:34
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:35
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:36
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:37
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:38
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:39
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:40
+msgid "activate to sort column ascending"
+msgstr "激活排序列升序"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:55
+msgid "Balance"
+msgstr "余额"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:57
+msgid "Market Description"
+msgstr "说明"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:74
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:139
+msgid "Withdraw"
+msgstr "退出"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:96
+msgid "Deposit your Bitcoins to the address below"
+msgstr "存入您的比特币到以下地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:98
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:208
+msgid "Deposit Wallet Address"
+msgstr "存款钱夹地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:102
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:212
+msgid "Generate New Address"
+msgstr "应用程序接口"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:104
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:144
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:191
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:214
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:310
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:218
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:236
+msgid "Close"
+msgstr "关"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:115
+msgid "Withdraw your Bitcoins"
+msgstr "收回你的比特币"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:126
+msgid "Amount of BTC to withdraw"
+msgstr "BTC量​​撤回"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:137
+msgid "Enter withdraw wallet"
+msgstr "进入退出钱包"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:156
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:179
+msgid "Depositing"
+msgstr "沉积和回抽"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/deposit.php:206
+msgid "Deposit your CryptxCoins to the address below"
+msgstr "存入您的比特币到以下地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:255
+msgid ""
+"\n"
+"          Coin Purchase information "
+msgstr ""
+"\n"
+"硬币采购信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:287
+msgid ""
+"\n"
+"          Sell Order Information"
+msgstr ""
+"\n"
+"卖出定单提交"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:300
+msgid "Total Price of"
+msgstr "总价"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:301
+msgid "to"
+msgstr "至"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:301
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:341
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:387
+msgid "Buy"
+msgstr "买"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:321
+msgid "Trading Chart"
+msgstr "图表"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:355
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:425
+msgid "Amount of"
+msgstr "金额"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:372
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:443
+msgid "Value of"
+msgstr "价值"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:386
+msgid ""
+"Choose an amount to buy. Use periods for lesser amounts for example: 0.1 or "
+"0.02. Our lowest possible order is 0.0001"
+msgstr ""
+"选择购买的数量。使用期限少量的，例如：0.1或0.02。我们最低的顺序是0.0001"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:412
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:457
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:60
+msgid "Sell"
+msgstr "卖"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:457
+msgid ""
+"Choose an amount to sell. Use periods for lesser amounts for example: 0.1 or "
+"0.02. Our lowest order possible is 0.0001"
+msgstr ""
+"选择卖出的金额。使用期限少量的，例如：0.1或0.02。我们可以以最低的0.0001"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:478
+msgid "Selling Orders"
+msgstr "销售订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:495
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:511
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:555
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:570
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:79
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:82
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:177
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:36
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:16
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:42
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:66
+msgid "Price"
+msgstr "价格"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:498
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:514
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:558
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:573
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:621
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:660
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:80
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:175
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:34
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:15
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:41
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:65
+msgid "Amount"
+msgstr "金额"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:501
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:517
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:561
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:576
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:627
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:666
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:35
+msgid "Cost"
+msgstr "费用"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:540
+msgid "Buying Orders"
+msgstr "订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:605
+msgid "Trade History"
+msgstr "交易历史"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:630
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:669
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:83
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:178
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:37
+msgid "Time"
+msgstr "时间"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:633
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:80
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:39
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:54
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:67
+msgid "Date"
+msgstr "日期"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:636
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/index.php:675
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:17
+msgid "Buy/Sell"
+msgstr "买入/卖出"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:2
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:40
+msgid "Invoice"
+msgstr "账单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:14
+msgid "Send"
+msgstr "发送"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:19
+msgid "Print"
+msgstr "列印"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:31
+msgid "Invoice No"
+msgstr "无发票"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:44
+msgid "Client"
+msgstr "客戶"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:60
+msgid "Company Details"
+msgstr "公司详细信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:63
+msgid "Company Reg"
+msgstr "公司"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:64
+msgid "Website Name"
+msgstr "网址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:65
+msgid "Address"
+msgstr "地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:77
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:79
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:174
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:33
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:14
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:40
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:64
+msgid "Market"
+msgstr "市场"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:78
+msgid "Quantity"
+msgstr "数量"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:100
+msgid "Total amount (before fee)"
+msgstr "总金额（费前）"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:105
+msgid "Fee Percentage"
+msgstr "百分比"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/invoice.php:111
+msgid "Grand Total (after fee) "
+msgstr "总金额（费前）"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:17
+msgid "Open Buying Orders"
+msgstr "未清订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:81
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:176
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:35
+msgid "Total Cost"
+msgstr "总成本"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:101
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:198
+msgid "Cancel"
+msgstr "取消"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:113
+msgid "Open Selling Orders"
+msgstr "未清订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:212
+msgid "Deleting Order"
+msgstr "删除订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:215
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:233
+msgid "Are you sure you want to delete your order?"
+msgstr "你确定要删除您的订单？"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:219
+msgid "Delete Order"
+msgstr "删除订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/orders.php:230
+msgid "Deleting order"
+msgstr "删除订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:3
+msgid "Completed trades"
+msgstr "完成交易"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:38
+msgid "Buy Or Sell"
+msgstr "买入/卖出"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/dashboard/trades.php:56
+msgid "View Invoice"
+msgstr "查看发票"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:75
+msgid "Welcome to Cryptxe"
+msgstr "欢迎来到Cryptxe"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:78
+msgid "Start trading Cryptocurrencies today"
+msgstr "开始交易"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:80
+msgid "Start trading"
+msgstr "开始交易！"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:120
+msgid "Account management"
+msgstr "客户管理"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:122
+msgid ""
+"Easily maintain your account. View orders, trades, transactions, whitelist "
+"IP's and much more"
+msgstr "轻松地维护您的帐户。查看订单，交易，交易，IP白名单的等等"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:127
+msgid "Multiple Markets"
+msgstr "市场"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:129
+msgid ""
+" We have multiple Cryptocurrency markets for our users to trade against."
+msgstr "我们有多个Cryptocurrency市场为我们的用户反对贸易。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:136
+msgid ""
+"Easily build 3rd party applications with our public and/or private API -- "
+"fully documented, easy to use."
+msgstr "轻松地建立第三方应用程序与出公共和/或私有API  - 完全记录，使用方便。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:141
+msgid "2Factor Authentication"
+msgstr "身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:143
+msgid ""
+" To protect our users and their accounts we have implemented 2factor "
+"authentication."
+msgstr "为了保护我们的用户和他们的帐户，我们已经实现2factor认证。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:153
+msgid "We are responsive"
+msgstr "关于我们"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:155
+msgid " Trade on: Desktop, Tablet or Mobile"
+msgstr "通过您的手机交易"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:160
+msgid "Why Choose Cryptxe?"
+msgstr "为什么选择我们？"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:166
+msgid "Security is our number one objective."
+msgstr "安全是我们的头号目标。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:173
+msgid ""
+"Here at Cryptxe we pride ourself on our security. We are handling people's "
+"money, so we need to have a secure system"
+msgstr ""
+"在这里Cryptxe我们非常自豪我们自己对我们的安全。我们正在处理的人的钱，所以我们"
+"需要有一个安全的系统"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:182
+msgid "500 Free CryptxCoins Welcome Bonus."
+msgstr "500免费CryptxCoins欢迎奖金。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:189
+msgid ""
+"New users on Cryptxe are given 500 free Cryptx Coins. These can be used to "
+"trade against other markets"
+msgstr "在Cryptxe新用户给出500免费Cryptx硬币。这些可以被用来对其他市场的交易"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:198
+msgid "Built in Messaging system"
+msgstr "内置的消息系统"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:205
+msgid ""
+"Depending on your account activity, depends on what messages you will "
+"receive. This is a great way to keep an eye on your account."
+msgstr ""
+"根据您的帐户活动，取决于什么样的信息，您将收到。这是一个伟大的方式来保持眼睛"
+"对您​​的帐户。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:214
+msgid "Whitelist IP's"
+msgstr "IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:221
+msgid ""
+"We offer you the chance to whitelist IP's to your account. You will only be "
+"able to login to your account with a whitelisted IP if you use this feature."
+msgstr ""
+"我们为您提供的机会，IP白名单的您的帐户。你只能如果您使用此功能登录到您的帐户"
+"列入白名单的IP。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:230
+msgid "Easy to understand Market Charts"
+msgstr "很容易理解市场图表"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:237
+msgid ""
+"View the markets information on our charts. See what prices are trending, "
+"view volume and much more."
+msgstr "查看我们的图表的市场信息。看看价格趋势，查看音量等等。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/index.php:253
+msgid ""
+"Cryptxe has both a public and private API. Making custom applications a "
+"breeze."
+msgstr "Cryptxe既有公共和私人API。制作自定义应用程序变得轻而易举。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/home/liveorders.php:35
+msgid "Ask"
+msgstr "询问"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:11
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:31
+msgid "Generate API"
+msgstr "应用程序接口"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:28
+msgid " Enter Name "
+msgstr "输入姓名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:51
+msgid " Name "
+msgstr "名称"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:51
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:54
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:57
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:60
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:148
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:149
+msgid " activate to sort column ascending "
+msgstr "激活排序列升序"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:52
+msgid "Name"
+msgstr "名称"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:54
+msgid " Key "
+msgstr "密匙"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:55
+msgid "Key"
+msgstr "密匙"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:57
+msgid " Secret "
+msgstr "保密性"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:58
+msgid "Secret"
+msgstr "保密性"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:60
+msgid " Actions "
+msgstr "操作"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/api.php:87
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:171
+msgid "Delete"
+msgstr "删除"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:61
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:59
+msgid " Please enter an email address "
+msgstr "请输入电子信箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:72
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:72
+msgid " Enter strong password "
+msgstr "输入密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:83
+msgid " Passwords don 't match"
+msgstr "密码不要&#39;T比赛"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:83
+msgid "Confirm password"
+msgstr "﻿确认密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:90
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:90
+msgid "Password Requirements"
+msgstr "密码要求"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:99
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:96
+msgid "8 characters minimum"
+msgstr "1个或多个数字或特殊字符"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:102
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:97
+msgid "1 or more upper-case letters"
+msgstr "1个或多个大写字母"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:109
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:102
+msgid "1 or more lower-case letters"
+msgstr "1个或多个小写字母"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:112
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:103
+msgid "1 or more digits or special characters"
+msgstr "1个或多个数字或特殊字符"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:120
+msgid "Sidebar Constantly Open"
+msgstr "边栏不断开放"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/edit.php:128
+msgid "Chat Constantly Open"
+msgstr "未清订单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:16
+msgid "Login form"
+msgstr "登录表单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:29
+msgid " Email "
+msgstr "邮箱"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:32
+msgid " Password "
+msgstr "密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:33
+msgid "Your caps lock is enabled. Our passwords are case-sensitive."
+msgstr "您的Caps Lock键启用。我们的密码是区分大小写的。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:37
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/loginauth.php:26
+msgid "Sign in"
+msgstr "登陆"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:45
+msgid "Remember Me"
+msgstr "记住我"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:53
+msgid "Create New Account"
+msgstr "“创建新帐户”"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/login.php:58
+msgid "Forgot Password"
+msgstr "忘记密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/loginauth.php:4
+msgid "2 Factor Authentication"
+msgstr "双重身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/loginauth.php:20
+msgid " Authentication code "
+msgstr "身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/loginauth.php:21
+msgid ""
+"This is the code supplied on your mobile phone. Open Google Authenticator\n"
+"                      and insert the code above and press 'login'"
+msgstr ""
+"这是您的手机上提供的代码。打开谷歌的Authenticator 和插入上面的代码，然后按"
+"&#39;登录&#39;"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/message.php:67
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/messages.php:122
+msgid "All"
+msgstr "所有"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/message.php:79
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/messages.php:135
+msgid "Account"
+msgstr "账户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/messages.php:63
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/messages.php:76
+msgid "Select all"
+msgstr "全選"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passreset.php:5
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passresetsec.php:4
+msgid "Password Reset"
+msgstr "换用密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passreset.php:24
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passresetsec.php:35
+msgid "Reset Password"
+msgstr "换用密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passresetsec.php:25
+msgid "Security Answer 1"
+msgstr "登录安全"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/passresetsec.php:31
+msgid "Security Answer 2"
+msgstr "登录安全"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:34
+msgid "Register Form"
+msgstr "注册表单"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:51
+msgid " Username "
+msgstr "用户名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:51
+msgid " Please enter your username "
+msgstr "请输入您的Twitter用户名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:59
+msgid " Enter email address "
+msgstr "输入电子邮件地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:83
+msgid " Password don 't match"
+msgstr "密码不要&#39;T比赛"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:83
+msgid "Confirm Password"
+msgstr "确认密码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:107
+msgid ""
+"These security questions will not be changeable or visible after "
+"registration. <br/>\n"
+"If you lose access to your email/account, we will use these questions as "
+"part of the process to grant access to your account."
+msgstr ""
+"这些安全问题将无法更改或可见登记后。 如果您无法访问您的电子邮件/帐户，我们将"
+"用这些问题作为这一进程的一部分授予访问您的帐户。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:113
+msgid "Favorite Sports Team"
+msgstr "國家隊"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:114
+msgid "Favorite Food"
+msgstr "收藏"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:115
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:134
+msgid "Mother's Maiden Name"
+msgstr "女性姓名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:116
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:135
+msgid "Grandmothers BirthPlace"
+msgstr "出生地"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:117
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:136
+msgid "Father's Name"
+msgstr "父親名字(~F)"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:125
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:144
+msgid " Security Question Answer "
+msgstr "赞成一个问题或者回答"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:132
+msgid "What was the name of you Elementary School"
+msgstr "小学"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:133
+msgid "Favorite Movie"
+msgstr "收藏"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:150
+msgid "I agree to the"
+msgstr "“我同意”"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/register.php:152
+msgid "Terms and Conditions"
+msgstr "條款和細則"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:39
+msgid "User Logins"
+msgstr "所在用户"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:53
+msgid " Date "
+msgstr "日期"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:53
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:56
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:59
+msgid "activate to sort column ascending "
+msgstr "激活排序列升序"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:56
+msgid " IP Address "
+msgstr "IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:57
+msgid "IP Address"
+msgstr "IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:59
+msgid " Status "
+msgstr "状态"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:60
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:73
+msgid "Status"
+msgstr "状态"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:70
+msgid "IP address"
+msgstr "IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:100
+msgid "Whitelist IP Addresses"
+msgstr "白名单IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:111
+msgid ""
+"If you add 1 or more whitelisted IP Addresses you will not be able to login "
+"with another\n"
+" non-whitelisted IP. You can add and remove IP addresses. It is not "
+"recommended for you\n"
+" to use if you have a dynamic IP"
+msgstr ""
+"如果添加1个或多个白名单的IP地址，你将无法登录另一个 非白名单IP。您可以添加和"
+"删除IP地址。这是不建议你的 使用，如果你有一个动态的IP"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:124
+msgid " Enter IP "
+msgstr "IP地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/security.php:148
+msgid "Whitelisted IP"
+msgstr "白名单 IP"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:21
+msgid "Bought"
+msgstr "買"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:24
+msgid "Sold"
+msgstr "已售"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:29
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:35
+msgid "totalling"
+msgstr "共计"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:31
+msgid "You"
+msgstr "您"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:37
+msgid "with an I.P (internet protocol) address of"
+msgstr "用的IP（互联网协议）地址"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/timeline.php:51
+msgid "You have not completed any trades yet."
+msgstr "您还没有完成任何交易呢。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:4
+msgid "Two Factor Authentication"
+msgstr "双重身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:20
+msgid "Authentication Key"
+msgstr "验证密钥"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:25
+msgid "Authentication Code"
+msgstr "身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:26
+msgid "Enter Code"
+msgstr "邮政编码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:27
+msgid ""
+"Download Google authenticator and scan the barcode. Once scanned\n"
+"\t\t\t  a number should appear in the authenticator app. Fill out our\n"
+"\t\t\t  input with that code and click submit authentication on this site."
+msgstr ""
+"下载谷歌认证和扫描条形码。一旦扫描一些应该出现在认证程序。填写我们的输入与该"
+"代码，点击本网站提交认证。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/twofactor.php:31
+msgid "Submit authentication"
+msgstr "身份验证"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:31
+msgid "User Verification form"
+msgstr "查看详情"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:41
+msgid ""
+"Upload a valid form of\n"
+" identification. Driving licenses, passports, Government\n"
+" Issued ID's"
+msgstr "上传 身份的有效形式。驾驶执照，护照，政府 发行ID的"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:53
+msgid " First Name "
+msgstr "名"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:60
+msgid " Last Name "
+msgstr "姓"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:68
+msgid " Address line 1 "
+msgstr "地址行1"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:77
+msgid " Address line 2 "
+msgstr "地址行2"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:86
+msgid " City "
+msgstr "城市"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:95
+msgid " Postal Code "
+msgstr "邮政编码"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:104
+msgid " State/Provinince "
+msgstr "州/省"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:154
+msgid " Date of birth "
+msgstr "出生日期"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:160
+msgid "Valid Identification"
+msgstr "鉴定"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:164
+msgid ""
+"We only accept drivers licenses, passports or any other government issued id."
+msgstr "我们只接受驾驶执照，护照或其他政府颁发的身份证。"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:167
+msgid "All the information supplied "
+msgstr "信息"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:167
+msgid "MUST"
+msgstr "必须"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:168
+#, php-format
+msgid "be 100% correct"
+msgstr "是 100 正确的"
+
+#: C:\Users\Nate\Documents\btcexchange/application/views/user/verify.php:171
+msgid ""
+"Only JPEG,PNG,JPG Type Image Uploaded. Image Size Should Be Less Than 10MB."
+msgstr "只有JPEG，PNG，JPG图像类型上传。图片大小应小于10MB。"
+
+#~ msgid ""
+#~ "\n"
+#~ "          Sell Order Submitted "
+#~ msgstr ""
+#~ "\n"
+#~ "卖出定单提交"
+
+#~ msgid ""
+#~ "Easily build 3rd party applications with out public and/or private API -- "
+#~ "fully documented, easy to use."
+#~ msgstr ""
+#~ "轻松地建立第三方应用程序与出公共和/或私有API  - 完全记录，使用方便。"

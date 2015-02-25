@@ -1,0 +1,35 @@
+[28-Jan-2015 09:23:40 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 132
+[28-Jan-2015 09:23:40 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->__call('getnewaddress', Array)
+#1 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->getnewaddress()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 140
+[28-Jan-2015 09:31:43 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 132
+[28-Jan-2015 09:31:43 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->__call('getnewaddress', Array)
+#1 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->getnewaddress()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 140
+[28-Jan-2015 09:31:49 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 132
+[28-Jan-2015 09:31:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->__call('getnewaddress', Array)
+#1 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->getnewaddress()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 140
+[28-Jan-2015 09:32:09 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 132
+[28-Jan-2015 09:32:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->__call('getnewaddress', Array)
+#1 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->getnewaddress()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 140
+[28-Jan-2015 09:39:25 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 132
+[28-Jan-2015 09:39:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->__call('getnewaddress', Array)
+#1 /home3/cryptxe/public_html/public/coin/test.php(8): jsonRPCClient->getnewaddress()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/public/coin/jsonRPCClient.php on line 140

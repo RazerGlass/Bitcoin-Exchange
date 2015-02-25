@@ -1,0 +1,223 @@
+body {
+    font-family: Arial;
+    font-size: 14px;
+}
+.logo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: #222;
+    margin: 20px 30px;
+}
+.logo .number {
+    color: #222;
+    opacity: 0.1;
+}
+.navigation {
+    margin-left: 33px;
+}
+.navigation a {
+    display: inline-block;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 2px solid #222;
+    background: #222;
+    color: #fff;
+}
+.navigation a:hover {
+    color: #222;
+    background: transparent;
+}
+.container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 33px;
+}
+.container a {
+    color: #222;
+}
+.container table {
+    font-size: 11px;
+    margin-top: 20px;
+}
+.container table thead td {
+    background-color: #f5f5f5;
+    padding: 4px 10px;
+}
+.container table tbody td {
+    padding: 4px 10px;
+}
+.container .box {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+.container input {
+    background-color: #f5f5f5;
+    border: 0;
+    padding: 5px 10px;
+}
+.container input[type="submit"] {
+    background-color: #ccc;
+    cursor: pointer;
+}
+.container input[type="submit"]:hover {
+    background-color: #222;
+    color: #fff;
+}
+.container button {
+    background-color: #ccc;
+    border: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.container button:hover {
+    background-color: #222;
+    color: #fff;
+}
+.footer {
+  background: #253340;
+  color: #fff;
+  padding-top: 40px;
+  font-size: 14px;
+  position: relative;
+  z-index: 20;
+}
+.footer p {
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+.footer .btn-cta,
+.footer a.btn-cta {
+  padding: 9px 10px;
+}
+.footer .footer-col.links .fa {
+  margin-right: 5px;
+}
+.footer .footer-col.links li {
+  margin-bottom: 10px;
+}
+.footer .footer-col.connect .social {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.footer .footer-col.connect .social li {
+  margin-right: 10px;
+}
+.footer .footer-col.connect .social li a .fa {
+  color: #b3b3b3;
+  font-size: 22px;
+}
+.footer .footer-col.connect .social li a:hover .fa {
+  color: #ec6952;
+}
+.footer .footer-col.connect .btn-cta-primary {
+  background: #5d80a1;
+  border-color: #5d80a1;
+}
+.footer .footer-col.connect .btn-cta-primary:hover {
+  background: #4a6781;
+  border-color: #4a6781;
+}
+.footer .footer-col .title {
+  color: #fff;
+  font-weight: normal;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  -webkit-opacity: 0.9;
+  -moz-opacity: 0.9;
+  opacity: 0.9;
+}
+.footer .footer-col p {
+  color: #fff;
+}
+.footer .footer-col a {
+  color: #6d8dab;
+}
+.footer .footer-col a:hover {
+  color: #8da6bd;
+}
+.footer .footer-col .navbar-form {
+  padding-left: 0;
+  padding-right: 0;
+}
+.footer .footer-col .navbar-form .form-control {
+  -webkit-opacity: 0.9;
+  -moz-opacity: 0.9;
+  opacity: 0.9;
+}
+.footer .footer-col .navbar-form .form-control:focus {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.footer .has-divider {
+  border-top: 1px solid #2b3b4a;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.footer .download .download-list li {
+  margin-bottom: 15px;
+}
+.footer .download .download-list li .btn-ghost {
+  text-align: left;
+  -webkit-opacity: 0.6;
+  -moz-opacity: 0.6;
+  opacity: 0.6;
+  width: 230px;
+}
+.footer .download .download-list li .btn-ghost:hover {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.footer .contact p {
+  -webkit-opacity: 0.5;
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+.footer .contact p a {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.footer .contact .fa {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.footer .contact .email .fa {
+  font-size: 16px;
+}
+.footer .bottom-bar {
+  background: #1e1e1e;
+  color: #b3b3b3;
+  font-size: 14px;
+  padding: 10px 0;
+}
+.footer .bottom-bar .copyright {
+  line-height: 1.6;
+}
+  .footer-col {
+    margin-bottom: 30px;
+  }
+  .footer-col .form-control {
+    width: auto;
+  }
+  .footer .footer-col .navbar-form {
+    padding-left: 15px;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .footer .footer-col .navbar-form .form-control {
+    display: inline-block;
+  }
+    .footer-col {
+    margin-bottom: 30px;
+  }

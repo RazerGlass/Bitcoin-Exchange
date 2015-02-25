@@ -1,0 +1,14 @@
+# BEGIN custom php.ini PHP54
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home3/cryptxe/www
+</IfModule>
+# END custom php.ini
+
+ErrorDocument 403 /https://cryptxe.co/error
+ErrorDocument 404 /https://cryptxe.co/error
+ErrorDocument 500 /https://cryptxe.co/error
+
+RewriteEngine on
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301] 
+RewriteRule ^(.*) public/$1 [L]

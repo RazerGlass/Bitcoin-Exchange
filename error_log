@@ -1,0 +1,7 @@
+[22-Jan-2015 12:26:29 America/Chicago] PHP Warning:  fopen(http://...@81.156.8.189:8332/): failed to open stream: Connection refused in /home3/cryptxe/public_html/jsonRPCClient.php on line 132
+[22-Jan-2015 12:26:29 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to connect to http://cryptxe:corkish1@81.156.8.189:8332/' in /home3/cryptxe/public_html/jsonRPCClient.php:140
+Stack trace:
+#0 /home3/cryptxe/public_html/test.php(8): jsonRPCClient->__call('getinfo', Array)
+#1 /home3/cryptxe/public_html/test.php(8): jsonRPCClient->getinfo()
+#2 {main}
+  thrown in /home3/cryptxe/public_html/jsonRPCClient.php on line 140
